@@ -232,3 +232,46 @@ The classification must be accurate, consistent, and context-aware.
 CUSTOMER QUERY:
 
 {{CUSTOMER_QUERY}}
+
+
+OUTPUT:
+
+I placed my order six days ago, and the estimated delivery date has already passed. The tracking page says the package is moving between facilities, but nobody can tell me when it will actually reach my address.
+
+Delivery
+
+My order was successfully cancelled three days ago, and your company confirmed that the refund was initiated. However, the money has not appeared in my bank statement.
+
+Refund
+
+The website displayed ₹2,499 during checkout, but my bank statement shows that ₹2,999 was charged for the same purchase.
+
+Payment
+
+I received an email confirming that my refund was successfully processed, but my bank account balance has not changed. The customer support team keeps telling me that the transaction is completed from their side.
+
+Refund
+
+I accidentally ordered the same product twice because the application became unresponsive after I clicked the purchase button. Both orders are currently visible in my order history, and I only need one of them.
+
+Cancellation
+
+My order arrived five days later than the promised date, and unfortunately, the box was wet when the delivery person handed it over. The actual product seems fine, but I want to know whether I can return the purchase and get my money back.
+
+Return
+
+I purchased a product during a promotional sale, but the checkout page charged me the regular price instead of applying the advertised discount. The amount deducted is higher than what I agreed to pay.
+
+Payment
+
+I don't have any problem with the payment, and the amount was successfully deducted. My only concern is that the order has been sitting in the warehouse for eight days without being handed over to the courier.
+
+Shipping
+
+I want to change the email address associated with my shopping account, but the application refuses to save the new address even after I complete the verification process.
+
+Account
+
+There is an issue with the product, but I haven't decided what I want to do about it.
+
+Unknown
