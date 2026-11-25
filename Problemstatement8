@@ -388,4 +388,33 @@ Your ultimate goal is to help users communicate effectively through contextually
 
 USER EMAIL REQUEST:
 
+
 {{USER_EMAIL_REQUEST}}
+
+
+OUTPUT:
+Write a polite email following up on my pending job application.
+
+Subject: Follow-Up on My Job Application
+
+Dear [Recipient Name],
+
+I hope you are doing well. I am writing to follow up on my application for the [Job Title] position at [Company Name], submitted on [Date]. I remain very interested in the opportunity and would appreciate any update on the status of my application.
+
+Thank you for your time and consideration.
+
+Best regards,
+[Your Name]
+
+Draft a professional email asking for a salary revision.
+
+Subject: Request for Salary Revision
+
+Dear [Manager's Name],
+
+I hope you are doing well. I would like to request a review of my current salary. I value my role at [Company Name] and would appreciate the opportunity to discuss this with you at a time that is convenient.
+
+Thank you for your time and consideration.
+
+Best regards,
+[Your Name]
