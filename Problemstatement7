@@ -434,3 +434,25 @@ Always prioritize patient safety and appropriate medical attention.
 PATIENT QUERY:
 
 {{PATIENT_QUERY}}
+
+
+OUTPUT:
+I have a fever that has continued for several days.
+
+URGENT
+
+My throat is swelling, and I am struggling to breathe.
+
+EMERGENCY
+
+Which vitamins are good for general health?
+
+ROUTINE
+
+I have a minor skin irritation.
+
+ROUTINE
+
+Something feels wrong with my body.
+
+INSUFFICIENT_DATA
