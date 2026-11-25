@@ -294,3 +294,33 @@ Return exactly ONE word.
 CUSTOMER QUERY:
 
 {{CUSTOMER_QUERY}}
+
+
+OUTPUT:
+I want to know whether your store offers gift wrapping.
+
+Low
+
+I would like to know the procedure for changing the delivery address of an order scheduled to arrive tomorrow.
+
+Medium
+
+The application has stopped working completely, and I cannot access my active orders or make necessary purchases for my business today.
+
+High
+
+Someone has stolen my account credentials, changed the recovery details, and is attempting unauthorized purchases.
+
+High
+
+I need help understanding how to download the monthly payment statement from my account.
+
+Low
+
+Refund delayed and needed for an urgent essential payment
+
+Medium
+
+I am extremely angry because my profile picture is not updating.
+
+Low
