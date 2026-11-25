@@ -397,3 +397,44 @@ Your ultimate goal is to make flight booking information collection accurate, ef
 CUSTOMER MESSAGE:
 
 {{CUSTOMER_MESSAGE}}
+
+
+OUTPUT:
+I am Priya, Chennai to Mumbai, 10 December, 2 passengers, Economy.
+
+Passenger Name: Priya
+
+Departure City: Chennai
+
+Destination City: Mumbai
+
+Travel Date: 10 December (year to be confirmed)
+
+Number of Passengers: 2
+
+Travel Class: Economy
+
+Please provide the following missing information:
+
+Could you confirm the year of travel for 10 December?
+
+
+I am Rahul, Bengaluru to Delhi.
+
+Passenger Name: Rahul
+
+Departure City: Bengaluru
+
+Destination City: Delhi
+
+Travel Date: Missing
+
+Number of Passengers: Missing
+
+Travel Class: Missing
+
+Please provide the following missing information:
+
+What is your preferred travel date?
+How many passengers will be travelling?
+Which travel class do you prefer: Economy, Premium Economy, Business, or First Class?
