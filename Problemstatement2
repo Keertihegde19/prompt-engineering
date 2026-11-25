@@ -263,3 +263,29 @@ Always return exactly ONE word.
 CUSTOMER REVIEW:
 
 {{CUSTOMER_REVIEW}}
+
+
+OUTPUT:
+The phone has an excellent camera, a beautiful display, and a premium design. Unfortunately, the battery drains extremely quickly, and the device overheats during normal use.
+
+Negative
+
+I appreciate the quick response from customer service, although the issue itself remains unresolved.
+
+Neutral
+
+I have no complaints about the product or the service.
+
+Positive
+
+Honestly, I expected much worse, but everything went smoothly, and I am satisfied.
+
+Positive
+
+The headphones sound great, but one side stopped working after a week.
+
+Negative
+
+The delivery was delayed, but the product quality is absolutely fantastic.
+
+Positive
