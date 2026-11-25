@@ -335,3 +335,26 @@ Always maintain consistency and fairness across all scholarship applications.
 STUDENT APPLICATION:
 
 {{STUDENT_APPLICATION}}
+
+
+
+OUTPUT:
+My academic score is 90%, but my family's annual income is ₹5,00,000.
+
+NOT_ELIGIBLE
+
+My family income is ₹1,00,000, but my academic score is not available.
+
+INSUFFICIENT_DATA
+
+My score is 85%, and our income is ₹3,00,001 annually.
+
+NOT_ELIGIBLE
+
+Hey, I got 92 in my academics and my parents' yearly income is around 2.2 lakhs.
+
+ELIGIBLE
+
+My academic score is 90% and my annual family income is ₹2,50,000.
+
+ELIGIBLE
